@@ -82,7 +82,7 @@
     </tools>
 	<modExtensions>
 		<li Class="VWEMakeshift.MoteProperties">
-			<moteDef>Mote_DustPuffThick</moteDef>
+			<fleckDef>DustPuffThick</fleckDef>
 			<size>0.5</size> <!-- Multiplier -->
 			<velocity>2</velocity> <!-- Fixed amount -->
 			<angleRange>-15~15</angleRange> <!-- Negative: Counter-clockwise Positive: Clockwise -->
@@ -169,7 +169,7 @@
     </tools>
 	<modExtensions>
 		<li Class="VWEMakeshift.MoteProperties">
-			<moteDef>Mote_DustPuffThick</moteDef>
+			<fleckDef>DustPuffThick</fleckDef>
 			<size>0.5</size> <!-- Multiplier -->
 			<velocity>2</velocity> <!-- Fixed amount -->
 			<angleRange>-15~15</angleRange> <!-- Negative: Counter-clockwise Positive: Clockwise -->
@@ -255,7 +255,7 @@
     </tools>
 	<modExtensions>
 		<li Class="VWEMakeshift.MoteProperties">
-			<moteDef>Mote_DustPuffThick</moteDef>
+			<fleckDef>DustPuffThick</fleckDef>
 			<size>0.5</size> <!-- Multiplier -->
 			<velocity>2</velocity> <!-- Fixed amount -->
 			<angleRange>-15~15</angleRange> <!-- Negative: Counter-clockwise Positive: Clockwise -->
@@ -341,7 +341,7 @@
     </tools>
 	<modExtensions>
 		<li Class="VWEMakeshift.MoteProperties">
-			<moteDef>Mote_DustPuffThick</moteDef>
+			<fleckDef>DustPuffThick</fleckDef>
 			<size>0.5</size> <!-- Multiplier -->
 			<velocity>2</velocity> <!-- Fixed amount -->
 			<angleRange>-15~15</angleRange> <!-- Negative: Counter-clockwise Positive: Clockwise -->
@@ -430,7 +430,7 @@
     </tools>
 	<modExtensions>
 		<li Class="VWEMakeshift.MoteProperties">
-			<moteDef>Mote_DustPuffThick</moteDef>
+			<fleckDef>DustPuffThick</fleckDef>
 			<size>0.5</size> <!-- Multiplier -->
 			<velocity>2</velocity> <!-- Fixed amount -->
 			<angleRange>-15~15</angleRange> <!-- Negative: Counter-clockwise Positive: Clockwise -->
